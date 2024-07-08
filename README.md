@@ -23,6 +23,7 @@
 ##### 📅 Marzo 2023 - Mayo 2024
 - Colaboré con otros desarrolladores y diseñadores en un entorno ágil, siguiendo las mejores prácticas de desarrollo con metodologias como SCRUM y Agile.
 - Mantención y mejora de aplicaciones existentes, corrigiendo errores y añadiendo nuevas funcionalidades.
+- Refactorización en solicitudes críticas aplicando Promises JavaScript mejorando experiencia de usuario
 
 ### 📌 Full-Stack Developer | Procesac S.A, Santiago, Chile
 ##### 📅 Marzo 2015 - Marzo 2023
