@@ -3,7 +3,6 @@
 
 ## 📎 Información contacto 
 - Santiago, San Bernardo, Chile
-- Teléfono: (+56) 9 77305148
 - Correo Electrónico: [miguel_catalan_garcia@hotmail.com](mailto:miguel_catalan_garcia@hotmail.com).
 - LinkedIn: www.linkedin.com/in/ecatalan/
 - GitHub: www.github.com/EliasCatalan
