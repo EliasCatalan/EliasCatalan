@@ -38,7 +38,7 @@
 - Certificado Scrum ID: 43247919
 - CertiProf, Scrum Foundation Certificate (SFC) – (Spanish)
 - 6 de Agosto de 2020
---- 
+  
 - Ingenieria en Computación e Informática
 - Instituto Profesional La Araucana, Santiago, Chile
 - Marzo 2011 - Diciembre 2015
