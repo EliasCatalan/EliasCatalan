@@ -16,7 +16,7 @@
 ##### 📅 Mayo 2024 - Presente 
 - Integración API COPEC y VOLVO para monitoreo de posicionamiento (GPS) y consumo de combustible.
 - Mantención y mejora de aplicaciones existentes, corrigiendo errores y añadiendo nuevas funcionalidades.
-- Creación de modulo facturación e para facturación
+- Creación de modulo selección y facturación de guías
 - Integración API (Laudus) para facturación y DTE
 
 ### 📌 Senior Full-Stack Developer | MIMS Projects, Santiago, Chile
