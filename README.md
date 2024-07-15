@@ -51,6 +51,5 @@
 * Herramientas y Tecnologías: `Git`, `Docker`, `AWS`, `Jenkins`, `MYSQL Workbench`, `GitHub / GitLab`, `CI / CD`, `POSTMAN`
 
 ### 🌐 Proyectos Destacados
-* `Postulación JI`: Participación en el diseño, creación e implementacion de aplicación web responsiva, la cual permite inscribir a niño/as a Jardin Infantiles.
-* `Confirma`: Participación en el diseño, creación e implementacion de aplicación web responsiva, la cual permite gestionar la asistencia los niños/as a los Jardines Infantiles
-* `ASI`: Oficina de Informaciones, Reclamos y Sugerencias (OIRS) desarrollado a medida para funcionalidad internas de la empresa
+* `Postulación JI`: Participación en el diseño, creación e implementación de aplicación web responsiva, la cual permite inscribir a niño/as a Jardines Infantiles.
+* `ASI`: Oficina de Informaciones, Reclamos y Sugerencias (OIRS) desarrollado a medida para dar soluciones internas de la empresa como también para la intereacción con la comunidad.
