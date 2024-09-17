@@ -14,10 +14,9 @@
 ## 🏢 Experiencia Laboral
 ### 📌 Senior Full-Stack Developer | Aboservicios SPA, Santiago, Chile
 ##### 📅 Mayo 2024 - Presente 
-- Integración API COPEC y VOLVO para monitoreo de posicionamiento (GPS) y consumo de combustible.
 - Mantención y mejora de aplicaciones existentes, corrigiendo errores y añadiendo nuevas funcionalidades.
 - Creación de modulo selección y facturación de guías
-- Integración API (Laudus) para facturación y DTE
+- Integración API para DTEs
 
 ### 📌 Senior Full-Stack Developer | MIMS Projects, Santiago, Chile
 ##### 📅 Marzo 2023 - Mayo 2024
