@@ -17,6 +17,7 @@
 - Mantención y mejora de aplicaciones existentes, corrigiendo errores y añadiendo nuevas funcionalidades.
 - Creación de modulo selección y facturación de guías
 - Integración API para DTEs
+- Levantamiento de requerimientos y solicitudes KeyUser
 
 ### 📌 Senior Full-Stack Developer | MIMS Projects, Santiago, Chile
 ##### 📅 Marzo 2023 - Mayo 2024
