@@ -59,7 +59,7 @@
 - Colaboré con otros desarrolladores y diseñadores en un entorno ágil, siguiendo las mejores prácticas de desarrollo con metodologias como SCRUM y Agile
 - Lideré un equipo de desarrollo para la creación de una aplicacion WEB, la cual permite gestionar reuniones y planificaciones en los distintos Jardin Infantiles visitados
 - Mentoreé a nuevos desarrolladores, ayudando a mejorar sus habilidades y acelerar su integración al equipo
-- Integración y puesta marcha servicio [queue-it](https://queue-it.com), control de tráfico en aperturas de postulaciones a jardines y salas cunas
+- Integración y puesta en marcha servicio [queue-it](https://queue-it.com), control de tráfico en aperturas de postulaciones a jardines y salas cunas
 
 ## 🏫 Educación
 * Certificado Scrum ID: 43247919
@@ -78,13 +78,11 @@
 
 ### 🌐 Proyectos Destacados
 * [POSTULA](https://postula.integra.cl/): Postulación a los distintos jardínes infantíles y salas cunas del país.
-  - Funcionalidades
     + Formulario encuesta para calculo de puntajes y vulnerabilidades (RSH)
     + Busqueda a nivel nacional de jardines y salas cunas
     + Interacción con AS400 para carga y centralización de datos
     + Notificaciones: inicio, fin, aceptación o rechazo de postulación
 * [ASI](https://asi.integra.cl/): Oficina de Informaciones, Reclamos y Sugerencias (OIRS) desarrollado a medida para dar soluciones internas de la empresa como también para la intereacción con la comunidad.
-  - Funcionalidades
     + Tiempos de respuesta para los requerimientos (SLA)
     + Notificaciones para derivaciones o soluciones a requerimientos.
     + Trazabilidad de requerimientos
