@@ -59,6 +59,7 @@
 - Colaboré con otros desarrolladores y diseñadores en un entorno ágil, siguiendo las mejores prácticas de desarrollo con metodologias como SCRUM y Agile
 - Lideré un equipo de desarrollo para la creación de una aplicacion WEB, la cual permite gestionar reuniones y planificaciones en los distintos Jardin Infantiles visitados
 - Mentoreé a nuevos desarrolladores, ayudando a mejorar sus habilidades y acelerar su integración al equipo
+- Integración y puesta marcha de queue-it, con el fin de controlar el tráfico en aperturas de postulaciones a jardines y salas cunas
 
 ## 🏫 Educación
 * Certificado Scrum ID: 43247919
