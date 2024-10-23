@@ -40,13 +40,13 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ## 🏢 Experiencia Laboral
-### 📌 Senior Full-Stack Developer | Aboservicios SPA, Santiago, Chile
+### 📌 Full-Stack Developer | Aboservicios SPA, Santiago, Chile
 ##### 📅 Mayo 2024 - Presente 
 - Integración API SimpleFactura y creación modulo facturas de venta, notas de crédito y notificaciones 
 - Mantención y mejora de aplicaciones existentes, corrigiendo errores y añadiendo nuevas funcionalidades
 - Levantamiento de requerimientos y solicitudes KeyUser
 
-### 📌 Senior Full-Stack Developer | MIMS Projects, Santiago, Chile
+### 📌 Full-Stack Developer | MIMS Projects, Santiago, Chile
 ##### 📅 Marzo 2023 - Mayo 2024
 - Colaboré con otros desarrolladores y diseñadores en un entorno ágil, siguiendo las mejores prácticas de desarrollo con metodologias como SCRUM y Agile
 - Mantención y mejora de aplicaciones existentes, corrigiendo errores y añadiendo nuevas funcionalidades
