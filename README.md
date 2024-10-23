@@ -77,12 +77,23 @@
 * Herramientas y Tecnologías: `Git`, `Docker`, `AWS`, `Jenkins`, `MYSQL Workbench`, `GitHub / GitLab`, `CI / CD`, `POSTMAN`
 
 ### 🌐 Proyectos Destacados
-* [POSTULA](https://postula.integra.cl/): Postulación a los distintos jardínes infantíles y salas cunas del país.
-    + Formulario encuesta para calculo de puntajes y vulnerabilidades (RSH)
-    + Busqueda a nivel nacional de jardines y salas cunas
+*  [FUSION](https://fusion.deltainformatica.cl) Sistema de gestión integrado de transporte.
+    + Ingreso y centralización de guias de transporte y traslado de minerales
+    + Integracion API SimpleFactura
+    + Emisión de documentos tributarios (DTE)
+      + Facturas de venta afectas y exentas
+      + Notas de crédito y debito
+      + Exportación de DTEs (detalle y timbre electrónico) 
+* [CONFIRMA](https://confirma.integra.cl) Confirmación y asignacion de cupos para jardínes infantíles y salas cunas del país.
+    + Permite gestionar y mantener los niños y niñas asociados a los niveles de jardínes y salas cunas
+    + Envío masivo de información hacia AS400
+* [POSTULA](https://postula.integra.cl) Postulación a Fundación Integra para los distintos jardínes infantíles y salas cunas del país.
+    + Formulario encuesta para cálculo de puntajes y vulnerabilidades (RSH)
+    + Búsqueda a nivel nacional de jardínes y salas cunas
     + Interacción con AS400 para carga y centralización de datos
-    + Notificaciones: inicio, fin, aceptación o rechazo de postulación
-* [ASI](https://asi.integra.cl/): Oficina de Informaciones, Reclamos y Sugerencias (OIRS) desarrollado a medida para dar soluciones internas de la empresa como también para la intereacción con la comunidad.
+    + Notificaciones: inicio, fin, aceptación y rechazo de la postulación
+* [ASI](https://asi.integra.cl) Oficina de Informaciones, Reclamos y Sugerencias (OIRS).
+    + Soluciones internas de la empresa como también para la intereacción con la comunidad.
     + Tiempos de respuesta para los requerimientos (SLA)
-    + Notificaciones para derivaciones o soluciones a requerimientos.
+    + Notificaciones para derivaciones o soluciones a requerimientos
     + Trazabilidad de requerimientos
