@@ -80,7 +80,7 @@
 *  [FUSION](https://fusion.deltainformatica.cl) Sistema de gestión integrado de transporte.
     + Ingreso y centralización de guias de transporte y traslado de minerales
     + Integracion API SimpleFactura
-    + Emisión de documentos tributarios (DTE)
+    + Emisión de Documento Tributario Electrónicos (DTE)
       + Facturas de venta afectas y exentas
       + Notas de crédito y debito
       + Exportación de DTEs (detalle y timbre electrónico) 
