@@ -6,7 +6,7 @@
 **Ingeniero en Computación e Informática** titulado del Instituto Profesional La Araucana. `Desarrollador Full-Stack` con más de 8 años de  experiencia en el diseño, desarrollo e implementación de aplicaciones web. Cuento con experiencia en varios lenguajes y librerias `front-end` y `back-end`. Me gusta transmitir mi pasión por resolver problemas, dar soluciones innovadoras y la mejora continua del código y la experiencia del usuario.
 
 - Santiago, San Bernardo, Chile
-- Correo Electrónico: [miguel_catalan_garcia@hotmail.com](mailto:miguel_catalan_garcia@hotmail.com)
+- Correo Electrónico: [ecatalan.code@gmail.com](mailto:ecatalan.code@gmail.com)
 - LinkedIn: www.linkedin.com/in/ecatalan
 - GitHub: www.github.com/EliasCatalan
 
