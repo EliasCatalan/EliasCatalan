@@ -3,7 +3,7 @@
 
 ## 📎 Información contacto 
 
-**Ingeniero en Computación e Informática** titulado del Instituto Profesional La Araucana. `Desarrollador Full-Stack` con más de 8 años de  experiencia en el diseño, desarrollo e implementación de aplicaciones web. Cuento con experiencia en varios lenguajes y librerias `front-end` y `back-end`. Me gusta transmitir mi pasión por resolver problemas, dar soluciones innovadoras y la mejora continua del código y la experiencia del usuario.
+**Ingeniero en Computación e Informática** titulado del Instituto Profesional La Araucana. `Desarrollador Full-Stack` con más de 8 años de  experiencia en el diseño, desarrollo e implementación de aplicaciones web. Cuento con experiencia en varios lenguajes y librerias `front-end` y `back-end`. Me gusta transmitir mi pasión por resolver problemas, dar soluciones innovadoras, la mejora continua del código y la experiencia del usuario.
 
 - Santiago, San Bernardo, Chile
 - Correo Electrónico: [ecatalan.code@gmail.com](mailto:ecatalan.code@gmail.com)
@@ -53,11 +53,11 @@
 ### 📌 Full-Stack Developer | Procesac S.A, Santiago, Chile
 ##### 📅 Marzo 2015 - Marzo 2023
 - Renovación tecnológica aplicando frameworks y librerías de desarrollo tales como CodeIgniter, Bootstrap y jQuery
-- Mantención y mejora de aplicaciones existentes, corrigiendo errores y añadiendo nuevas funcionalidades
+- Creación de proyectos a medida para darle solución a las necesidades del cliente
 - Colaboré con otros desarrolladores y diseñadores en un entorno ágil, siguiendo las mejores prácticas de desarrollo con metodologías como SCRUM y Agile
 - Lideré un equipo de desarrollo para la creación de una aplicación WEB, la cual permite gestionar reuniones y planificaciones en los distintos Jardín Infantiles visitados
 - Mentoría para nuevos desarrolladores, ayudando a mejorar sus habilidades y acelerar su integración al equipo
-- Integración y puesta en marcha servicio [queue-it](https://queue-it.com), control de tráfico en aperturas de postulaciones a jardines y salas cunas
+- Integración y puesta en marcha servicio [queue-it](https://queue-it.com), control de tráfico en aperturas de postulaciones a jardínes y salas cunas
 
 ## 🏫 Educación
 * Certificado Scrum ID: 43247919
@@ -82,7 +82,7 @@
       + Facturas de venta afectas y exentas
       + Notas de crédito y debito
       + Exportación de DTEs (detalle y timbre electrónico) 
-* [CONFIRMA](https://confirma.integra.cl) Confirmación y asignacion de cupos para jardínes infantíles y salas cunas del país.
+* [CONFIRMA](https://confirma.integra.cl) Confirmación y asignación de cupos para jardínes infantíles y salas cunas del país.
     + Permite gestionar y mantener los niños y niñas asociados a los niveles de jardínes y salas cunas
     + Envío masivo de información hacia AS400
 * [POSTULA](https://postula.integra.cl) Postulación a Fundación Integra para los distintos jardínes infantíles y salas cunas del país.
