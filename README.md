@@ -42,23 +42,21 @@
 ## 🏢 Experiencia Laboral
 ### 📌 Full-Stack Developer | Aboservicios SPA, Santiago, Chile
 ##### 📅 Mayo 2024 - Presente 
-- Integración API SimpleFactura y creación modulo facturas de venta, notas de crédito y notificaciones 
-- Mantención y mejora de aplicaciones existentes, corrigiendo errores y añadiendo nuevas funcionalidades
+- Integración API SimpleFactura y creación modulo para generación de documentos tributarios electrónicos (DTEs)
 - Levantamiento de requerimientos y solicitudes KeyUser
 
 ### 📌 Full-Stack Developer | MIMS Projects, Santiago, Chile
 ##### 📅 Marzo 2023 - Mayo 2024
-- Colaboré con otros desarrolladores y diseñadores en un entorno ágil, siguiendo las mejores prácticas de desarrollo con metodologias como SCRUM y Agile
 - Mantención y mejora de aplicaciones existentes, corrigiendo errores y añadiendo nuevas funcionalidades
 - Refactorización en solicitudes críticas aplicando Promises JavaScript mejorando experiencia de usuario
 
 ### 📌 Full-Stack Developer | Procesac S.A, Santiago, Chile
 ##### 📅 Marzo 2015 - Marzo 2023
-- Renovación tecnologica aplicando frameworks y librerias de desarrollo tales como CodeIgniter, Bootstrap y jQuery
+- Renovación tecnológica aplicando frameworks y librerías de desarrollo tales como CodeIgniter, Bootstrap y jQuery
 - Mantención y mejora de aplicaciones existentes, corrigiendo errores y añadiendo nuevas funcionalidades
-- Colaboré con otros desarrolladores y diseñadores en un entorno ágil, siguiendo las mejores prácticas de desarrollo con metodologias como SCRUM y Agile
-- Lideré un equipo de desarrollo para la creación de una aplicacion WEB, la cual permite gestionar reuniones y planificaciones en los distintos Jardin Infantiles visitados
-- Mentoreé a nuevos desarrolladores, ayudando a mejorar sus habilidades y acelerar su integración al equipo
+- Colaboré con otros desarrolladores y diseñadores en un entorno ágil, siguiendo las mejores prácticas de desarrollo con metodologías como SCRUM y Agile
+- Lideré un equipo de desarrollo para la creación de una aplicación WEB, la cual permite gestionar reuniones y planificaciones en los distintos Jardín Infantiles visitados
+- Mentoría para nuevos desarrolladores, ayudando a mejorar sus habilidades y acelerar su integración al equipo
 - Integración y puesta en marcha servicio [queue-it](https://queue-it.com), control de tráfico en aperturas de postulaciones a jardines y salas cunas
 
 ## 🏫 Educación
