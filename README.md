@@ -52,11 +52,11 @@
 
 ### 📌 Full-Stack Developer | Procesac S.A, Santiago, Chile
 ##### 📅 Marzo 2015 - Marzo 2023
-- Renovación tecnológica aplicando frameworks y librerías de desarrollo tales como CodeIgniter, Bootstrap y jQuery
-- Creación de proyectos a medida para darle solución a las necesidades del cliente
-- Colaboré con otros desarrolladores y diseñadores en un entorno ágil, siguiendo las mejores prácticas de desarrollo con metodologías como SCRUM y Agile
 - Lideré un equipo de desarrollo para la creación de una aplicación WEB, la cual permite gestionar reuniones y planificaciones en los distintos Jardín Infantiles visitados
+- Creación de proyectos a medida para darle solución a las necesidades del cliente
 - Mentoría para nuevos desarrolladores, ayudando a mejorar sus habilidades y acelerar su integración al equipo
+- Renovación tecnológica aplicando frameworks y librerías de desarrollo tales como CodeIgniter, Bootstrap y jQuery
+- Colaboré con otros desarrolladores y diseñadores en un entorno ágil, siguiendo las mejores prácticas de desarrollo con metodologías como SCRUM y Agile
 - Integración y puesta en marcha servicio [queue-it](https://queue-it.com), control de tráfico en aperturas de postulaciones a jardínes y salas cunas
 
 ## 🏫 Educación
