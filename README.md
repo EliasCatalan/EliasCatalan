@@ -58,6 +58,7 @@
 - Renovación tecnológica aplicando frameworks y librerías de desarrollo tales como CodeIgniter, Bootstrap y jQuery
 - Colaboré con otros desarrolladores y diseñadores en un entorno ágil, siguiendo las mejores prácticas de desarrollo con metodologías como SCRUM y Agile
 - Integración y puesta en marcha servicio [queue-it](https://queue-it.com), control de tráfico en aperturas de postulaciones a jardínes y salas cunas
+  
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 
