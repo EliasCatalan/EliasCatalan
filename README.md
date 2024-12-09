@@ -61,7 +61,7 @@ Desarrollador Full-Stack con más de 8 años de experiencia en el diseño, desar
     + Interacción con AS400 para carga y centralización de datos
     + Notificaciones: inicio, fin, aceptación y rechazo de la postulación
 * [ASI](https://asi.integra.cl) Oficina de Informaciones, Reclamos y Sugerencias (OIRS).
-    + Soluciones internas de la empresa como también para la intereacción con la comunidad.
+    + Soluciones internas de la empresa como también para la interacción con la comunidad.
     + Tiempos de respuesta para los requerimientos (SLA)
     + Notificaciones para derivaciones o soluciones a requerimientos
     + Trazabilidad de requerimientos
