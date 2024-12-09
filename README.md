@@ -20,7 +20,7 @@ Desarrollador Full-Stack con más de 8 años de experiencia en el diseño, desar
 - Realicé el mantenimiento y la mejora continua de aplicaciones, resolviendo errores de forma eficiente y desarrollando nuevas funcionalidades para satisfacer las necesidades cambiantes de los usuarios y del negocio.
 - Refactoricé solicitudes críticas implementando el uso de Promises en JavaScript, lo que permitió mejorar significativamente la experiencia del usuario al optimizar la gestión de operaciones asíncronas y reducir tiempos de respuesta.
 
-### 📌 Full-Stack Developer | Procesac S.A, Santiago, Chile
+### 📌 Full-Stack Developer | Fundación Integra / Procesac S.A, Santiago, Chile
 ##### 📅 Marzo 2015 - Marzo 2023
 - Lideré un equipo de desarrollo para crear una aplicación web que permite gestionar reuniones y planificaciones en jardines infantiles, optimizando procesos administrativos y mejorando la organización institucional.
 - Diseñé y desarrollé proyectos a medida, adaptados a las necesidades específicas de los clientes, asegurando soluciones funcionales y escalables.
