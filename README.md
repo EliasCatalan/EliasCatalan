@@ -2,8 +2,7 @@
 # <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif?cid=790b7611bfoasj7zac7k5dq5sp5c47ffszb4djlslhpvlye7&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100px"> Elias Catalán García 
 
 ## 📎 Información contacto 
-
-**Ingeniero en Computación e Informática** `Desarrollador Full-Stack` con más de 8 años de experiencia en el diseño, desarrollo e implementación de aplicaciones web. Cuento con experiencia en varios lenguajes y librerias `front-end` y `back-end`. Me gusta transmitir mi pasión por resolver problemas, dar soluciones innovadoras, la mejora continua del código y la experiencia del usuario.
+Desarrollador Full-Stack con más de 8 años de experiencia en el diseño, desarrollo e implementación de aplicaciones web. Experto en múltiples lenguajes de programación y librerías tanto de `front-end` como `back-end`. Apasionado por resolver problemas complejos, brindar soluciones innovadoras y fomentar la mejora continua en la calidad del código y la experiencia del usuario. Mi enfoque está en construir soluciones escalables y eficientes, manteniendo siempre un alto estándar de excelencia técnica.
 
 - Santiago, San Bernardo, Chile
 - Correo Electrónico: [ecatalan.code@gmail.com](mailto:ecatalan.code@gmail.com)
