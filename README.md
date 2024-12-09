@@ -13,22 +13,22 @@
 ## 🏢 Experiencia Laboral
 ### 📌 Full-Stack Developer | Aboservicios SPA, Santiago, Chile
 ##### 📅 Mayo 2024 - Presente 
-- Integración API SimpleFactura y creación modulo para generación de documentos tributarios electrónicos (DTEs)
-- Levantamiento de requerimientos y solicitudes KeyUser
+- Implementé la integración con la API de SimpleFactura y desarrollé un módulo personalizado para la generación de Documentos Tributarios Electrónicos (DTEs), asegurando el cumplimiento de normativas fiscales y facilitando la automatización de procesos contables.
+- Realicé un análisis detallado de los requerimientos y solicitudes junto a Key Users, garantizando una comprensión integral de sus necesidades y traduciendo estas en soluciones técnicas eficaces y alineadas con los objetivos del negocio.
 
 ### 📌 Full-Stack Developer | MIMS Projects, Santiago, Chile
 ##### 📅 Marzo 2023 - Mayo 2024
-- Mantención y mejora de aplicaciones existentes, corrigiendo errores y añadiendo nuevas funcionalidades
-- Refactorización en solicitudes críticas aplicando Promises JavaScript mejorando experiencia de usuario
+- Realicé el mantenimiento y la mejora continua de aplicaciones, resolviendo errores de forma eficiente y desarrollando nuevas funcionalidades para satisfacer las necesidades cambiantes de los usuarios y del negocio.
+- Refactoricé solicitudes críticas implementando el uso de Promises en JavaScript, lo que permitió mejorar significativamente la experiencia del usuario al optimizar la gestión de operaciones asíncronas y reducir tiempos de respuesta.
 
 ### 📌 Full-Stack Developer | Procesac S.A, Santiago, Chile
 ##### 📅 Marzo 2015 - Marzo 2023
-- Lideré un equipo de desarrollo para la creación de una aplicación WEB, la cual permite gestionar reuniones y planificaciones en los distintos Jardín Infantiles visitados
-- Creación de proyectos a medida para darle solución a las necesidades del cliente
-- Mentoría para nuevos desarrolladores, ayudando a mejorar sus habilidades y acelerar su integración al equipo
-- Renovación tecnológica aplicando frameworks y librerías de desarrollo tales como CodeIgniter, Bootstrap y jQuery
-- Colaboré con otros desarrolladores y diseñadores en un entorno ágil, siguiendo las mejores prácticas de desarrollo con metodologías como SCRUM y Agile
-- Integración y puesta en marcha servicio [queue-it](https://queue-it.com), control de tráfico en aperturas de postulaciones a jardínes y salas cunas
+- Lideré un equipo de desarrollo para crear una aplicación web que permite gestionar reuniones y planificaciones en jardines infantiles, optimizando procesos administrativos y mejorando la organización institucional.
+- Diseñé y desarrollé proyectos a medida, adaptados a las necesidades específicas de los clientes, asegurando soluciones funcionales y escalables.
+- Guié a nuevos desarrolladores a través de mentorías, ayudándolos a mejorar sus habilidades técnicas y a integrarse de manera efectiva en el equipo de desarrollo.
+- Implementé renovaciones tecnológicas mediante el uso de frameworks y librerías como CodeIgniter, Bootstrap y jQuery, mejorando la calidad del código y la experiencia del usuario.
+- Trabajé en estrecha colaboración con desarrolladores y diseñadores en entornos ágiles, aplicando metodologías como SCRUM y Agile para garantizar entregas eficientes y de alta calidad.
+- Lideré la integración y puesta en marcha del servicio [Queue-it](https://queue-it.com) para gestionar el tráfico durante las aperturas de postulaciones a jardines infantiles y salas cuna, asegurando la estabilidad y accesibilidad del sistema bajo alta demanda.
 
 ## 🏫 Educación
 * Certificado Scrum ID: 43247919
