@@ -11,15 +11,13 @@ Desarrollador Full-Stack con más de 10 años de experiencia en el diseño, desa
 | **Bases de Datos**     | `MySQL` `SQLServer` `PostgreSQL` `MongoDB`                                |
 | **Herramientas / DevOps** | `Git` `GitHub / GitLab` `Docker` `AWS` `Jenkins` `CI / CD` `POSTMAN` |
 | **GUI para BBDD**      | `MySQL Workbench`                                                            |
+| 💡Gist                  | [EliasCatalan.gist](https://gist.github.com/EliasCatalan) |
 
 <!-- ## 📎 Información contacto 
 - Santiago, San Bernardo, Chile
 - Mail: [ecatalan.code@gmail.com](mailto:ecatalan.code@gmail.com)
 - LinkedIn: www.linkedin.com/in/ecatalan
 - GitHub: www.github.com/EliasCatalan] -->
-
-## 💡Gist
-[EliasCatalan.gist](https://gist.github.com/EliasCatalan)
 
 ## 🏢 Experiencia Laboral
 ### 📌 Full-Stack Developer | Aboservicios SPA, Santiago, Chile
