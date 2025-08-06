@@ -6,8 +6,8 @@ Desarrollador Full-Stack con más de 10 años de experiencia en el diseño, desa
 
 | Categoría              | Tecnologías                                                                 |
 |------------------------|------------------------------------------------------------------------------|
-| **Frontend**          | `JavaScript` `Bootstrap` `DataTables` `jQuery`                            |
-| **Backend**           | `Node.js + Express` `NestJS` `NextJS` `PHP` `CodeIgniter` `Laravel`                   |
+| **Frontend**          | `JavaScript` `NextJS` `Bootstrap` `DataTables` `jQuery`                            |
+| **Backend**           | `Node.js + Express` `NestJS` `PHP` `CodeIgniter` `Laravel`                   |
 | **Bases de Datos**     | `MySQL` `SQLServer` `PostgreSQL` `MongoDB`                                |
 | **Herramientas / DevOps** | `Git` `GitHub / GitLab` `Docker` `AWS` `Jenkins` `CI / CD` `POSTMAN` |
 | **GUI para BBDD**      | `MySQL Workbench`                                                            |
