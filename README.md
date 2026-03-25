@@ -54,7 +54,7 @@ Desarrollador Full-Stack con más de 10 años de experiencia en el diseño, desa
 * Bases de Datos: `MySQL`, `SQLServer`, `PostgreSQL`, `MongoDB`
 * Herramientas y Tecnologías: `Git`, `Docker`, `AWS`, `Jenkins`, `MYSQL Workbench`, `GitHub / GitLab`, `CI / CD`, `POSTMAN` -->
 
-### 🌐 Proyectos Destacados
+<!--### 🌐 Proyectos Destacados
 *  [FUSION](https://fusion.deltainformatica.cl) Sistema de gestión integrado de transporte.
     + Ingreso y centralización de guias de transporte y traslado de minerales
     + Integracion API SimpleFactura
@@ -75,6 +75,8 @@ Desarrollador Full-Stack con más de 10 años de experiencia en el diseño, desa
     + Tiempos de respuesta para los requerimientos (SLA)
     + Notificaciones para derivaciones o soluciones a requerimientos
     + Trazabilidad de requerimientos
+
+    -->
 
 ## 💻 Tecnologías
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
