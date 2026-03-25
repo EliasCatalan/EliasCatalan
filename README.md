@@ -17,7 +17,7 @@ Desarrollador Full-Stack con más de 10 años de experiencia en el diseño, desa
 - Santiago, San Bernardo, Chile
 - Mail: [ecatalan.code@gmail.com](mailto:ecatalan.code@gmail.com)
 - LinkedIn: www.linkedin.com/in/ecatalan
-- GitHub: www.github.com/EliasCatalan] -->
+- GitHub: www.github.com/EliasCatalan] 
 
 ## 🏢 Experiencia Laboral
 ### 📌 Full-Stack Developer | Aboservicios SPA, Santiago, Chile
@@ -46,7 +46,7 @@ Desarrollador Full-Stack con más de 10 años de experiencia en el diseño, desa
   
 * Ingenieria en Computación e Informática
   + Instituto Profesional La Araucana, Santiago, Chile
-  + Marzo 2011 - Diciembre 2015
+  + Marzo 2011 - Diciembre 2015 -->
 
 <!-- ### 👨‍💻 Habilidades Técnicas
 * Lenguajes de Programación: `JavaScript`, `PHP`, `SQL`
