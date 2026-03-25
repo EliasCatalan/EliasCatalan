@@ -76,7 +76,7 @@ Desarrollador Full-Stack con más de 10 años de experiencia en el diseño, desa
     + Notificaciones para derivaciones o soluciones a requerimientos
     + Trazabilidad de requerimientos
 
-    -->
+    
 
 ## 💻 Tecnologías
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
@@ -104,3 +104,6 @@ Desarrollador Full-Stack con más de 10 años de experiencia en el diseño, desa
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=flat&logo=sublime-text&logoColor=important)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+
+-->
