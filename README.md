@@ -12,6 +12,7 @@ Desarrollador Full-Stack orientado a la creación de soluciones robustas, escala
 | 💾**Bases de Datos**       | `MySQL` `SQLServer` `PostgreSQL` `MongoDB`                                   |
 | 🪄**Herramientas / DevOps**| `Git` `GitHub / GitLab` `Docker` `AWS` `Jenkins` `CI / CD` `POSTMAN`         |
 | ♟️**GUI para BBDD**        | `MySQL Workbench`                                                            |
+| 🤖AI-Assisted Development  | `Prompt Engineering` `GitHub Copilot PRO` `Claude Sonnet` `Refactorización de código generado por IA` |
 | 💡Gist                     | [EliasCatalan.gist](https://gist.github.com/EliasCatalan)                    |
 
 <!-- ## 📎 Información contacto 
