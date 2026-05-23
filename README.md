@@ -1,6 +1,7 @@
 
 # <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif?cid=790b7611bfoasj7zac7k5dq5sp5c47ffszb4djlslhpvlye7&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="55px"> Elias Catalán García 
-Desarrollador Full-Stack especialista en múltiples lenguajes de programación y librerías tanto de `frontend` como `backend`. Apasionado por resolver problemas complejos, brindar soluciones innovadoras y fomentar la mejora continua en la calidad del código y la experiencia del usuario. Mi enfoque está en construir soluciones escalables y eficientes, manteniendo siempre un alto estándar de excelencia técnica.
+
+Desarrollador Full-Stack orientado a la creación de soluciones robustas, escalables y eficientes, combinando experiencia en tecnologías frontend y backend con un enfoque sólido en arquitectura, rendimiento y calidad de código. Me apasiona transformar problemas complejos en soluciones simples e innovadoras, aplicando buenas prácticas de desarrollo y mejora continua para entregar productos de alto impacto y excelente experiencia de usuario.
 
 ### 🧠 Stack Tecnológico
 
