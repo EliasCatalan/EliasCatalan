@@ -13,7 +13,7 @@ Desarrollador Full-Stack orientado a la creación de soluciones robustas, escala
 | 🪄**Herramientas / DevOps**| `Git` `GitHub / GitLab` `Docker` `AWS` `Jenkins` `CI / CD` `POSTMAN`         |
 | ♟️**GUI para BBDD**        | `MySQL Workbench`                                                            |
 | 🤖 **AI-Assisted Development**  | `Prompt Engineering` `GitHub Copilot PRO` `Claude Sonnet` `Refactorización de código generado por IA` |
-| 💡**Gist**                     | [EliasCatalan.gist](https://gist.github.com/EliasCatalan)                    |
+<!-- | 💡**Gist**                     | [EliasCatalan.gist](https://gist.github.com/EliasCatalan)                    | -->
 
 <!-- ## 📎 Información contacto 
 - Santiago, San Bernardo, Chile
